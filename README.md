@@ -4,6 +4,12 @@
 
 <p>Este é um guia de documentação para o projeto PokeDesk, um aplicativo web construído em React para explorar dados sobre Pokémon. O projeto inclui a utilização do Redux para gerenciamento de estado, a integração com a PokeAPI para obter informações sobre Pokémon, e a utilização das bibliotecas Form e Zod para lidar com formulários e validação de dados.</p>
 
+
+![pokenon](https://github.com/BeneditoLT/Pokedesk/assets/46333024/c078544c-75da-48d5-92ff-37435290b133)
+
+
+
+
 <h2>Estrutura do Projeto</h2>
 
 <p>O projeto está estruturado da seguinte forma:</p>
@@ -82,8 +88,8 @@
 
 <h2>Autor</h2>
 
-<p><strong>Seu Nome</strong></p>
+<p><strong>Benedito Lucas de Toledo </strong></p>
 
-<h2>Licença</h2>
+<h2>Licença MIT </h2>
 
 </body>
